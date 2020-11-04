@@ -1,0 +1,28 @@
+	body{background-color: #3366ff;}
+			h1.nume{color: #0000cc;}
+			h2.sectiuni{color: #0000cc;}
+			p{color: #0000cc;}
+			
+			table{background-color: white;}
+			ul{backround-color: white;}
+			
+			table, tr, td, ul{border: 3px solid black;}
+			tr:hover { background-color: blue;}
+			
+			h1.nume {font-family: "Verdana";
+				font-style: bold;
+				font-size: 36px;}
+				
+			p{font-family: "Arial";
+				font-size: 18px;}
+			
+			img.profil{border: 1px white;}
+				width: 300px;
+			}
+			a.linkAgenda {​​​​font-style: italic;
+			font-size: 24px;}​​​​
+
+			#titluAgenda {​​​​font-family: "Arial";
+			font-style: italic;
+			font-size: 52px;
+			color: pink;}​​​​	

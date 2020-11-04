@@ -1,0 +1,19 @@
+			body{background-color: darkblue;}
+	h1{color: darkblue;
+	p{font-family: verdana;
+  font-size: 20px;
+  color: darkblue;}
+	b{color: darkblue;}
+	h2{color: darkblue;}
+	ul{border-style:solid;border-color:#287EC7;}
+ h3{color:darkblue; font-size-40px;}
+ th{color:red; border-style:inset;
+ border-color:black;}
+			
+			a.linkAgenda {font-style: italic;
+			font-size: 24px;}
+
+			#titluAgenda {font-family: "Arial";
+			font-style: italic;
+			font-size: 52px;
+			color: pink;}
